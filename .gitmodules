@@ -1,0 +1,6 @@
+[submodule "DEFCONtroller"]
+	path = DEFCONtroller
+	url = git@github.com:So11Deo6loria/DEFCONtroller.git
+[submodule "DEFCONtrollerBL"]
+	path = DEFCONtrollerBL
+	url = git@github.com:So11Deo6loria/DEFCONtrollerBL.git
