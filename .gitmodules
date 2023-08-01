@@ -1,9 +1,11 @@
 [submodule "DEFCONtroller"]
 	path = DEFCONtroller
-	url = git@github.com:So11Deo6loria/DEFCONtroller.git
+	url = https://github.com/So11Deo6loria/DEFCONtroller.git
+	branch = main
 [submodule "DEFCONtrollerBL"]
 	path = DEFCONtrollerBL
-	url = git@github.com:So11Deo6loria/DEFCONtrollerBL.git
+	url = https://github.com/So11Deo6loria/DEFCONtrollerBL.git
+	branch = main
 [submodule "Hardware"]
 	path = Hardware
 	url = https://git.cadlab.io/So11Deo6loria/Project-Shield.git
