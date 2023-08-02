@@ -1,10 +1,10 @@
 [submodule "DEFCONtroller"]
 	path = DEFCONtroller
-	url = https://github.com/So11Deo6loria/DEFCONtroller.git
+	url = git@github.com:So11Deo6loria/DEFCONtroller.git
 	branch = main
 [submodule "DEFCONtrollerBL"]
 	path = DEFCONtrollerBL
-	url = https://github.com/So11Deo6loria/DEFCONtrollerBL.git
+	url = git@github.com:So11Deo6loria/DEFCONtrollerBL.git
 	branch = main
 [submodule "Hardware"]
 	path = Hardware
