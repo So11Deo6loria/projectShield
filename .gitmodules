@@ -14,3 +14,6 @@
 	path = basicFirmwareExample
   url = git@github.com:So11Deo6loria/basicFirmwareExample.git
   branch = main
+[submodule "supplyChainStrain"]
+	path = supplyChainStrain
+	url = git@github.com:So11Deo6loria/supplyChainStrain.git
