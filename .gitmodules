@@ -9,7 +9,8 @@
 [submodule "Hardware"]
 	path = Hardware
 	url = https://git.cadlab.io/So11Deo6loria/Project-Shield.git
-	branch = OwenBranch
+	branch = master
 [submodule "basicFirmwareExample"]
 	path = basicFirmwareExample
-	url = git@github.com:So11Deo6loria/basicFirmwareExample.git
+  url = git@github.com:So11Deo6loria/basicFirmwareExample.git
+  branch = main
