@@ -4,7 +4,7 @@
 	branch = main
 [submodule "DEFCONtrollerBL"]
 	path = DEFCONtrollerBL
-	url = git@github.com:So11Deo6loria/DEFCONtrollerBL.git
+	url = https://github.com/So11Deo6loria/DEFCONtrollerBL.git
 	branch = main
 [submodule "Hardware"]
 	path = Hardware
@@ -12,8 +12,9 @@
 	branch = master
 [submodule "basicFirmwareExample"]
 	path = basicFirmwareExample
-  	url = git@github.com:So11Deo6loria/basicFirmwareExample.git
-  	branch = main
+	url = https://github.com/So11Deo6loria/basicFirmwareExample.git
+  branch = main
 [submodule "supplyChainStrain"]
 	path = supplyChainStrain
-	url = git@github.com:So11Deo6loria/supplyChainStrain.git
+  url = https://github.com/So11Deo6loria/supplyChainStrain.git
+  branch = main
